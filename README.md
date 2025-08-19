@@ -36,6 +36,6 @@
 
 💡 **Tip:** Try to beat your own high score and challenge your friends!
 ---
- Photo
- <img width="1175" height="499" alt="Ekran Resmi 2025-08-19 20 10 45" src="https://github.com/user-attachments/assets/37d74369-32fe-47e1-90bc-9d1b20157c7d" />
+## 📸 Photo
 
+<img width="800" src="https://github.com/user-attachments/assets/37d74369-32fe-47e1-90bc-9d1b20157c7d" />
