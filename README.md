@@ -1,45 +1,52 @@
-# Survivor Bird
+# 🐦 Survivor Bird
 
-Survivor Bird, Android için geliştirilen bir 2D arcade oyunudur. Oyunda bir kuşu kontrol ederek engellerden kaçmanız ve mümkün olduğunca yüksek puan elde etmeniz gerekmektedir. Oyun, libGDX framework'ü ile Java kullanılarak geliştirilmiştir.
+**Survivor Bird** is a 2D arcade game for Android. Control a bird 🐦, avoid obstacles 🐝, and try to get the highest score! Developed using **Java** and the **libGDX** framework.  
 
-## Özellikler
-- Basit ve eğlenceli oyun mekaniği
-- Dokunmatik ekran ile kontrol
-- Skor sistemi
-- Farklı arı engelleri
-- Oyun bitince tekrar başlatma
+---
 
-## Kurulum
+## 🎮 Features
+- 🕹️ Simple and fun gameplay  
+- ✋ Touch screen controls  
+- 🏆 Score system  
+- 🐝 Different bee obstacles  
+- 🔄 Restart game after Game Over  
 
-### Gereksinimler
-- Java 8+
-- Android Studio
-- Android SDK (minSdkVersion: 19, targetSdkVersion: 35)
+---
 
-### Derleme ve Çalıştırma
-1. Depoyu klonlayın veya indirin.
-2. Android Studio ile açın.
-3. Gerekli SDK ve bağımlılıkların kurulu olduğundan emin olun.
-4. Bir Android cihaz veya emülatörde çalıştırın.
+## ⚙️ Installation
 
-## Proje Yapısı
-- `core/`: Oyunun ana mantığı ve libGDX kodları
-- `android/`: Android platformuna özel dosyalar ve başlatıcı
-- `assets/`: Oyun görselleri (background.png, bird.png, bee.png)
+### Requirements
+- Java 8+ ☕  
+- Android Studio 🛠️  
+- Android SDK (minSdkVersion: 19, targetSdkVersion: 35) 📱  
 
-## Kullanılan Kütüphaneler
-- [libGDX](https://libgdx.com/) (v1.12.1)
-- Android Gradle Plugin
+### Build & Run
+1. Clone or download the repository  
+2. Open with Android Studio  
+3. Ensure required SDK and dependencies are installed  
+4. Run on an Android device or emulator  
 
-## Oyun Nasıl Oynanır?
-- Ekrana dokunarak kuşu yukarı zıplatın.
-- Arılardan kaçın ve puan kazanın.
-- Kuş yere veya bir engele çarparsa oyun biter.
-- "Game Over" ekranında tekrar dokunarak yeniden başlayabilirsiniz.
+---
 
-## Katkı
-Katkıda bulunmak için pull request gönderebilirsiniz.
+## 🗂️ Project Structure
+- `core/`: Main game logic and libGDX code  
+- `android/`: Android-specific files & launcher  
+- `assets/`: Game graphics (background.png, bird.png, bee.png)  
 
-## Lisans
-Bu proje kişisel kullanım içindir.
+---
 
+## 🛠️ Libraries Used
+- [libGDX](https://libgdx.com/) (v1.12.1)  
+- Android Gradle Plugin  
+
+---
+
+## 🕹️ How to Play
+- Tap the screen to make the bird fly up ✈️  
+- Avoid bees 🐝 and earn points ⭐  
+- Hitting the ground or an obstacle ends the game ❌  
+- Tap on the "Game Over" screen to restart 🔄  
+
+---
+
+💡 **Tip:** Try to beat your own high score and challenge your friends!
