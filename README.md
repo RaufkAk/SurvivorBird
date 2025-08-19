@@ -13,21 +13,6 @@
 
 ---
 
-## ⚙️ Installation
-
-### Requirements
-- Java 8+ ☕  
-- Android Studio 🛠️  
-- Android SDK (minSdkVersion: 19, targetSdkVersion: 35) 📱  
-
-### Build & Run
-1. Clone or download the repository  
-2. Open with Android Studio  
-3. Ensure required SDK and dependencies are installed  
-4. Run on an Android device or emulator  
-
----
-
 ## 🗂️ Project Structure
 - `core/`: Main game logic and libGDX code  
 - `android/`: Android-specific files & launcher  
@@ -50,3 +35,7 @@
 ---
 
 💡 **Tip:** Try to beat your own high score and challenge your friends!
+---
+ Photo
+ <img width="1175" height="499" alt="Ekran Resmi 2025-08-19 20 10 45" src="https://github.com/user-attachments/assets/37d74369-32fe-47e1-90bc-9d1b20157c7d" />
+
