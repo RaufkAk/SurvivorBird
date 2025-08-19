@@ -37,5 +37,4 @@
 💡 **Tip:** Try to beat your own high score and challenge your friends!
 ---
 ## 📸 Photo
-
 <img width="800" src="https://github.com/user-attachments/assets/37d74369-32fe-47e1-90bc-9d1b20157c7d" />
